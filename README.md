@@ -1,5 +1,5 @@
 # Solar-Power-Generation-Forecast
-**<u>Introduction</u>**
+**Introduction**
 Solar power production and consumption in India have witnessed remarkable growth and transformation in recent years. With a total solar power generation capacity exceeding 35 gigawatts (GW) as of September 2020, India ranks among the world's largest solar power producers. Government initiatives, incentives, and large-scale solar parks have fueled this capacity expansion. India's commitment to solar energy aligns with its sustainable development goals, providing electricity to remote areas and reducing costs for industries. India had numerous solar power plants and installations across the country, with a wide range of capacities and sizes. India's abundant sunshine, low cloud cover, and diverse geography create favorable conditions for solar production year-round. Motivated by this, we have gathered data from a solar power facility located in near Mumbai, India, to conduct an in-depth analysis of solar production based on the weather conditions.
 
 **Problem Statement**
